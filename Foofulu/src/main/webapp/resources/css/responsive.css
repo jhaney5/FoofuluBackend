@@ -1,0 +1,42 @@
+@media screen and (max-width:500px)
+{
+	
+}
+@media screen and (max-width:991px)
+{
+	
+
+}
+@media screen and (max-width:767px)
+{
+	.content-wrapper {
+  margin-top: 61px;
+}
+.main-header .navbar {
+  border-bottom: medium none;
+  margin: 0;
+}
+.sidebar-menu {
+  margin-top: 29px;
+}
+}
+@media screen and (max-width:600px)
+{
+	
+}
+@media screen and (max-width:479px)
+{
+	body
+	{
+		min-width:290px;
+	}
+	
+	
+
+@media screen and (max-width:500px){
+.box form {
+  border-radius: 30px;
+  margin-top: -4px;
+  width: 162px;
+}
+}
